@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1443363086 source:c:\users\dani\desktop\proyecto\wrapper-sdl\código\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1425467991 c:\users\dani\desktop\proyecto\wrapper-sdl\código\pantalla.h
+	"SDL2/SDL.h"
+
+1458820633 source:c:\users\dani\desktop\proyecto\proyecto\pruebas.c
+	"Pantalla.h"
+
+1463774382 source:c:\users\dani\desktop\proyecto\proyecto\untitled1.c
+	"Nave.h"
+	"Pantalla.h"
+	"Rafaga.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"Disparo.h"
+	"Aste.h"
+
+1462958752 source:c:\users\dani\desktop\proyecto\proyecto\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1463774462 c:\users\dani\desktop\proyecto\proyecto\pantalla.h
+	"SDL2/SDL.h"
+
+1463660124 source:c:\users\dani\desktop\proyecto\proyecto\nave.c
+	"Pantalla.h"
+	<stdlib.h>
+	"Nave.h"
+	<time.h>
+
+1463772740 c:\users\dani\desktop\proyecto\proyecto\nave.h
+	"Disparo.h"
+	"Aste.h"
+
+1463774462 c:\users\dani\desktop\proyecto\proyecto\disparo.h
+	"Pantalla.h"
+	"Aste.h"
+
+1463485010 source:c:\users\dani\desktop\proyecto\proyecto\disparo.c
+	"Pantalla.h"
+	<stdlib.h>
+	<stdio.h>
+	"Disparo.h"
+	"Aste.h"
+
+1463486165 source:c:\users\dani\desktop\proyecto\proyecto\rafaga.c
+	"Pantalla.h"
+	<stdlib.h>
+	<stdio.h>
+	"Disparo.h"
+	"Nave.h"
+	"Rafaga.h"
+
+1463772740 c:\users\dani\desktop\proyecto\proyecto\rafaga.h
+	"Disparo.h"
+	"Nave.h"
+
+1462963894 source:c:\users\dani\desktop\proyecto\proyecto\asteroide.c
+	"Pantalla.h"
+	<stdlib.h>
+	"Asteroide.h"
+
+1462963864 c:\users\dani\desktop\proyecto\proyecto\asteroide.h
+
+1463773681 source:c:\users\dani\desktop\proyecto\proyecto\aste.c
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Aste.h"
+	"disparo.h"
+
+1463774462 c:\users\dani\desktop\proyecto\proyecto\aste.h
+	"Pantalla.h"
+
+1463773681 source:c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\aste.c
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Aste.h"
+	"disparo.h"
+
+1463774462 c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\pantalla.h
+	"SDL2/SDL.h"
+
+1463774462 c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\aste.h
+	"Pantalla.h"
+
+1463774462 c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\disparo.h
+	"Pantalla.h"
+	"Aste.h"
+
+1463774462 source:c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\disparo.c
+	"Pantalla.h"
+	<stdlib.h>
+	<stdio.h>
+	"Disparo.h"
+	"Aste.h"
+
+1488989677 source:c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\nave.c
+	"Pantalla.h"
+	<stdlib.h>
+	"Nave.h"
+	<time.h>
+
+1463774462 c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\nave.h
+	"Disparo.h"
+	"Aste.h"
+
+1462958752 source:c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1488989690 source:c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\untitled1.c
+	"Nave.h"
+	"Pantalla.h"
+	"Rafaga.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"Disparo.h"
+	"Aste.h"
+
+1463774462 c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\rafaga.h
+	"Disparo.h"
+	"Nave.h"
+
+1463774463 source:c:\users\dani\desktop\demos\proyectos juegos codeblocks\proyecto\proyecto\rafaga.c
+	"Pantalla.h"
+	<stdlib.h>
+	<stdio.h>
+	"Disparo.h"
+	"Nave.h"
+	"Rafaga.h"
+
+1463773681 source:c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\aste.c
+	"Pantalla.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Aste.h"
+	"disparo.h"
+
+1463774462 c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\pantalla.h
+	"SDL2/SDL.h"
+
+1463774462 c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\aste.h
+	"Pantalla.h"
+
+1463774462 c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\disparo.h
+	"Pantalla.h"
+	"Aste.h"
+
+1463774462 source:c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\disparo.c
+	"Pantalla.h"
+	<stdlib.h>
+	<stdio.h>
+	"Disparo.h"
+	"Aste.h"
+
+1488989677 source:c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\nave.c
+	"Pantalla.h"
+	<stdlib.h>
+	"Nave.h"
+	<time.h>
+
+1463774462 c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\nave.h
+	"Disparo.h"
+	"Aste.h"
+
+1462958752 source:c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1463774463 source:c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\rafaga.c
+	"Pantalla.h"
+	<stdlib.h>
+	<stdio.h>
+	"Disparo.h"
+	"Nave.h"
+	"Rafaga.h"
+
+1463774462 c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\rafaga.h
+	"Disparo.h"
+	"Nave.h"
+
+1488989690 source:c:\users\dani\desktop\demos\proyectos codeblocks\proyecto\proyecto\untitled1.c
+	"Nave.h"
+	"Pantalla.h"
+	"Rafaga.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"Disparo.h"
+	"Aste.h"
+
